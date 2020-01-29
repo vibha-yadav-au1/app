@@ -1,0 +1,83 @@
+#dash{
+    width: 37rem;
+    height:10rem;
+    border: 1px solid gray;
+    border-radius: 10px;
+    border-color:#efefef ;
+}
+.border-right{
+    color: #969696;
+}
+.box {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px 2em;
+  }
+  
+  .box :first-child {
+      align-self: center;
+  }
+  .row{
+      height:6rem;
+  }
+  .box-dash-2{
+    width: 39rem;
+    height: 3rem;
+    border: 1px solid #969696;
+    margin-top: 5rem;
+    border-radius: 10px;
+    background-color:#efefef ;
+  }
+  .box-dash-3{
+    width: 39rem;
+    height: 10rem;
+    border: 1px solid #969696;
+    margin-top: 5rem;
+    border-radius: 10px;
+  }
+  .sec-user1 {
+    border-radius: 20px;
+    height: 36rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-top: 15px;
+}
+.col-3{
+  border-right: 1px solid #969696;
+}
+.manage-btn{
+  padding: 0;
+    border: none;
+    outline: none;
+    font: inherit;
+    color: inherit;
+    background: none;
+}
+.edit-img {
+  width: 6.5rem;
+  height: -1.5rem;
+  float: right;
+  margin-right: 11px;
+  margin-top: -40px;
+  position: relative;
+  margin: 28px 2px 6px 2px;}
+  .numbers{
+    color: #ad4143;
+    padding: 22px;
+  }
+  #progress2{
+
+  }
+  .icon-dash{
+    padding-left: 10px;
+    padding-right: 11px;
+  }
+  .salary{
+    font-size: small;
+    font-weight: 400;
+    padding-left: 37px;
+    padding-bottom: 15px;
+    border-color: #efefef;
+  }
+  .Dashboard{
+    font-size: 20px;
+  }

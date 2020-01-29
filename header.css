@@ -1,0 +1,33 @@
+.popups {
+    width: 10rem;
+    height: 2rem;
+    background-color: white;
+    margin-left: 18rem;
+}
+
+.icons2{
+    font-size: 15px;
+    color: #0c456e;
+    padding: 0px 0px 0px 15px;
+}
+.logo-profile {
+    height: 47px;
+    position: absolute;
+    left: 65px;
+    top: 5px;
+    z-index: 1;
+    background-color: white;
+    border-radius: 50%;
+    padding: 2.5px;
+  }
+  #nav-main{
+    padding-right: 38px;
+  }
+  .pop-btn{
+    padding: 5px;
+    border: none;
+    outline: none;
+    font: inherit;
+    color: inherit;
+    background: none;
+  }
